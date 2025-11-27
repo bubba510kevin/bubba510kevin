@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on Luna https://github.com/bubba510kevin/Luna.git<br>I’m looking for help with Ui building<br>I’m currently learning C#<br>
+I’m currently working on Icarus https://github.com/bubba510kevin/Icarus.git<br>I’m looking for help with Ui building<br>I’m currently learning C#<br>
 
 
 ## 🌐 Socials:
